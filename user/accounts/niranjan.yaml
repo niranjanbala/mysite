@@ -1,0 +1,11 @@
+email: niranjan@bakfy.me
+fullname: Niranjan
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$3TmA8xbVhxPmDb77vSUctu5cKllPtnvSh/5LzOFI9gdFSBWqnAwxu
