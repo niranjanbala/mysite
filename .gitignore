@@ -2,3 +2,5 @@
 vendor
 webserver-configs
 tmp
+cache
+security.yaml
