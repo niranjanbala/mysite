@@ -3,4 +3,5 @@ vendor
 webserver-configs
 tmp
 cache
+logs
 security.yaml
